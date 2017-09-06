@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY;EACV,MAAM,EAAE,MAAM;EACd,UAAU,EAAE,MAAM",
+"sources": ["_page-title.scss"],
+"names": [],
+"file": "_page-title.css"
+}
